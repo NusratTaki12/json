@@ -1,0 +1,166 @@
+[
+    {
+        "key": "a1",
+        "id": "1",
+        "name": "Jean-Michel Basquiat",
+        "from": "New York",
+        "year": "1960-1988",
+        "type": "Contemporary Art",
+        "artWork": "naïf",
+        "price": 500000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_512,h_307/https://magazine.artland.com/wp-content/uploads/2018/01/4040-1024x614.jpg"
+    },
+    {
+        "key": "a2",
+        "id": "2",
+        "name": "Yoshitomo Nara",
+        "from": "Japan",
+        "year": "b. 1959",
+        "type": "Contemporary Fine Art",
+        "artWork": "Flashlight Girl閃光燈女孩, 2002–2004",
+        "price": 80000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_512,h_342/https://magazine.artland.com/wp-content/uploads/2018/01/Yoshitomo-Nara-1024x684.jpg"
+    },
+    {
+        "key": "a3",
+        "id": "3",
+        "name": "Anselm Kiefer",
+        "from": "USA",
+        "year": "b. 1945",
+        "type": "Abstract Paintings",
+        "artWork": "To The Unknown Painter (1983)",
+        "price": 110000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_198,h_256/https://magazine.artland.com/wp-content/uploads/2018/01/Anselm-Kiefer-790x1024.jpg"
+    },
+    {
+        "key": "a4",
+        "id": "4",
+        "name": "Zhang Xiaogang ",
+        "from": "China",
+        "year": "b. 1958",
+        "type": "Contemporary Art",
+        "artWork": "Fantasy, 2002",
+        "price": 500000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_238,h_338/https://magazine.artland.com/wp-content/uploads/2018/01/zhang-xiaogang-portrait.jpg"
+    },
+    {
+        "key": "a5",
+        "id": "5",
+        "name": "Peter Doig",
+        "from": "Scotland",
+        "year": "b. 1959",
+        "type": "Contemporary Art",
+        "artWork": "White Canoe,2007",
+        "price": 350000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_512,h_287/https://magazine.artland.com/wp-content/uploads/2018/01/Peter-Doig-in-his-New-York-Studio-2013.-Courtesy-Michael-Werner-Gallery-1024x573.jpg"
+    },
+    {
+        "key": "a6",
+        "id": "6",
+        "name": "Njideka Akunyili Crosby",
+        "from": "Nigerian-American",
+        "year": "b. 1983",
+        "type": "Contemporary Art",
+        "artWork": "In the Lavender Room, 2019",
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_404,h_512/https://magazine.artland.com/wp-content/uploads/2018/01/Njideka-Akunyili-Crosby--807x1024.jpg"
+    },
+    {
+        "key": "a7",
+        "id": "7",
+        "name": "Thomas Schütte",
+        "from": "Germany",
+        "year": "b. 1954",
+        "type": "Contemporary Art",
+        "artWork": "Die Fremden (The Strangers), 1992",
+        "price": 480000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_275,h_367/https://magazine.artland.com/wp-content/uploads/2018/01/Thomas-Sch%C3%BCtte-Portrait-%C2%A9-Photo-Albrecht-Fuchs-2010.jpg"
+    },
+    {
+        "key": "a8",
+        "id": "8",
+        "name": "Jeff Koons",
+        "from": "New York",
+        "year": "b. 1955",
+        "type": "Modern Contemporary Art",
+        "artWork": "Michael Jackson and Bubbles",
+        "price": 780000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_450,h_300/https://magazine.artland.com/wp-content/uploads/2018/01/JeffKoons005.jpg"
+    },
+    {
+        "key": "a9",
+        "id": "9",
+        "name": "Mark Bradford",
+        "from": "Virginia,USA",
+        "year": "b. 1961",
+        "type": "modern Abstraction",
+        "artWork": "Killing The Good Bye",
+        "price": 99500,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_263,h_350/https://magazine.artland.com/wp-content/uploads/2018/01/Mark-Bradford.jpg"
+    },
+    {
+        "key": "a10",
+        "id": "10",
+        "name": "Albert Oehlen",
+        "from": "Italy",
+        "year": "b. 1954",
+        "type": "Modern Art",
+        "artWork": "Hey mercy",
+        "price": 58000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_388,h_300/https://magazine.artland.com/wp-content/uploads/2018/01/Albert-Oehlen.jpg"
+    },
+    {
+        "key": "a11",
+        "id": "11",
+        "name": "Zeng Fanzhi ",
+        "from": "China",
+        "year": "b. 1964",
+        "type": "Modern",
+        "artWork": "The Last Supper ",
+        "price": 110000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_512,h_288/https://magazine.artland.com/wp-content/uploads/2018/01/Zeng-Fanzhi--1024x576.jpg"
+    },
+    {
+        "key": "a12",
+        "id": "12",
+        "name": " Adrian Ghenie",
+        "from": "Romania",
+        "year": "b. 1977",
+        "type": "Abstract Paintings",
+        "artWork": "The Raven, 2020",
+        "price": 8840000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_512,h_288/https://magazine.artland.com/wp-content/uploads/2018/01/Adrian-Ghenie-1024x576.jpg"
+    },
+    {
+        "key": "a13",
+        "id": "13",
+        "name": "Keith Haring",
+        "from": "New York",
+        "year": "1958-1990",
+        "type": "Pop art and Graffiti-Art",
+        "artWork": "Crack Is Wack",
+        "price": 95000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_275,h_278/https://magazine.artland.com/wp-content/uploads/2018/01/Keith-Haring..jpg"
+    },
+    {
+        "key": "a14",
+        "id": "14",
+        "name": "Rudolf Stingel",
+        "from": "Italy",
+        "year": "b. 1956",
+        "type": "Contemporary Art",
+        "artWork": "“Who’s Afraid of Jasper Johns?,” 2008",
+        "price": 340000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_225,h_337/https://magazine.artland.com/wp-content/uploads/2018/01/rudolf_stingel.png"
+    },
+    {
+        "key": "a15",
+        "id": "15",
+        "name": "Takashi Murakami",
+        "from": "Japan",
+        "year": "b. 1962",
+        "type": "Western Art",
+        "artWork": "The 500 Arhats",
+        "price": 52000,
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_512,h_342/https://magazine.artland.com/wp-content/uploads/2018/01/ff20130426r2b-1024x683.jpg"
+    }
+]
